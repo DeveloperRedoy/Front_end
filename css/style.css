@@ -1,0 +1,13 @@
+
+.wrapper
+{
+    overflow: auto;
+    position: relative;
+    height: 500px;
+    width: 400px;
+}
+
+  .container
+{
+      margin:50px auto;
+}
